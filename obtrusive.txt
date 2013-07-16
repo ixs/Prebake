@@ -13,6 +13,7 @@
 google.co.uk###epbar
 google.de###epbar
 google.nl###epbar
+google.ie###epbar
 uk.yahoo.com###y-shade
 wolframalpha.com###EUCookie
 
